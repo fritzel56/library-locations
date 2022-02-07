@@ -3,3 +3,6 @@
 
 # ignore __pycache__s
 *__pycache__*
+
+# ignore data files
+*data*
