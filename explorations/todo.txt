@@ -1,0 +1,6 @@
+Figure out why the 2 Montreal census tracts have '..' for their population
+Figure out how to show just the city proper
+Figure out how to show just the urban core
+Try pulling to more granular census divisions
+Develop metric to track availability
+Explore taking the large census files and creating smaller files with just rows that are needed
